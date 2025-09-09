@@ -1,5 +1,11 @@
-name,type,lat,lon
-Ram Ghat,ghat,25.4358,81.8463
-Police Station,police,25.44,81.85
-Medical Camp,medical,25.437,81.849
-Water Point,water,25.438,81.847
+name,type,latitude,longitude
+Triveni Sangam,ghat,25.4295,81.884
+Dashashwamedh Ghat,ghat,25.4332,81.8865
+Saraswati Ghat,ghat,25.432,81.889
+Ram Ghat,ghat,25.43,81.8902
+Nagvasuki Ghat,ghat,25.439,81.8915
+Mankameshwar Ghat,ghat,25.4275,81.8875
+Hanuman Ghat,ghat,25.4265,81.8855
+Police Control Room,police,25.4305,81.888
+Medical Camp 1,medical,25.431,81.887
+Info Kiosk,info,25.4325,81.886
